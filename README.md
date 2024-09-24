@@ -1,2 +1,2 @@
-# mds_projects
-My Data Science Projects Submitted as part of my Masters in Data Science Course
+# PGPDSBA and MDS Projects
+As part of my Post Graduate Program in Data Science and Business Analytics (PGPDSBA), I completed 12 projects that focused on business statistics, machine learning, and business reporting. These projects involved building predictive models using algorithms such as linear regression, decision trees, and clustering techniques. I also developed dashboards and business reports to present insights and recommendations. Tools used included Python for model development, KNIME for workflow automation, Tableau for data visualization, and MySQL for database management. My performance throughout the program earned me a GPA of 4.33, with commendations on every project.

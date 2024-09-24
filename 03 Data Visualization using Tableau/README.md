@@ -1,1 +1,2 @@
-
+# Data Visualization using Tableau
+Gamers' Arena is a website that provides information about video games to its users by tracking the games that have been released and their sales across various platforms and genres. It has now implemented a feature that allows gamers to subscribe on a monthly basis. They can play a limited number of games as long as they have a subscription. Your objective is to design an interactive dashboard that helps the director to monitor KPIs of the health of a new sales model (a subscription model).
